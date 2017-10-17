@@ -34,4 +34,4 @@ sysinfo.txt
 *.unitypackage
 
 #GitHub Plugin for Unity3D
-#/Assets/Plugins/GitHub/*
+/Assets/Plugins/GitHub/*
